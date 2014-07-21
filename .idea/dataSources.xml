@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2070089497">
+    <data-source source="LOCAL" name="hibernate.cfg.xml" uuid="dd5e6b9b-b919-41fe-8ae8-cb4c44ef06b4">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/db</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfdedfc2dfdfdfc4dfcedfcfdfd8df9adfc8dfc5dfc6dfde</user-password>
+      <libraries>
+        <library>
+          <url>file://D:\Libraries\Java\hibernate-release-4.3.5.Final\lib\jpa\hibernate-entitymanager-4.3.5.Final.jar</url>
+        </library>
+        <library>
+          <url>file://D:/Libraries/Java/JDBC/mysql-connector-java-3.1.14/mysql-connector-java-3.1.14-bin.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
